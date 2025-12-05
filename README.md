@@ -34,7 +34,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-   1. Define Inputs/Outputs: Inputs: J (Set), K (Reset), c1k (clock); Outputs: q, qbar (~q).
+  1. Define Inputs/Outputs: Inputs: J (Set), K (Reset), c1k (clock); Outputs: q, qbar (~q).
 
    2.Initialization: Set q = 0 and qbar = 1 at the start of the simulation.
 
